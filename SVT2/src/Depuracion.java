@@ -3,7 +3,7 @@ public class Depuracion {
 	public static void main(String[] args) {
 		
 	    System.out.println("");
-		String cadena1 = "APROBARÉ a";
+		String cadena1 = "APROBARÉ";
 	    String cadena2 = "aprobaré";
 	   
 	    if (sonCadenasIguales(cadena1, cadena2)) {
